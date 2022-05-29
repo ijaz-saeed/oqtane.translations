@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,6 +121,9 @@
     <value>ماڈیول میں ایک جز نہیں ہے جس کا نام {0} ہے</value>
   </data>
   <data name="Error.Module.InvalidType" xml:space="preserve">
-    <value>{0} ماڈیول کی قسم درست نہیں ہے</value>
+    <value>Module Type Is Invalid For {0}</value>
+  </data>
+  <data name="Error.Module.Exception" xml:space="preserve">
+      <value>ایک غیر متوقع خرابی واقع ہوئی ہے</value>
   </data>
 </root>

@@ -177,4 +177,7 @@
   <data name="Expiry" xml:space="preserve">
     <value>ختم</value>
   </data>
+  <data name="DeleteUserRole.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
 </root>

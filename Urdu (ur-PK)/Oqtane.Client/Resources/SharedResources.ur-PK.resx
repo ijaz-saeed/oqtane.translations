@@ -312,4 +312,13 @@
   <data name="Not Specified" xml:space="preserve">
     <value>متعین نہیں</value>
   </data>
+  <data name="BlazorServer" xml:space="preserve">
+    <value>بلیزر سرور</value>
+  </data>
+  <data name="BlazorWebAssembly" xml:space="preserve">
+    <value>بلیزر ویب اسمبلی</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>ترتیبات</value>
+  </data>
 </root>

@@ -117,55 +117,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="The Only Supported Culture That Has Been Defined Is English" xml:space="preserve">
-    <value>صرف تائید شدہ ثقافت جس کی تعریف کی گئی ہے وہ انگریزی ہے</value>
+  <data name="DatabaseConfig" xml:space="preserve">
+    <value>ڈیٹا بیس کنفیگریشنز</value>
   </data>
-  <data name="Error.Language.Add" xml:space="preserve">
-    <value>زبان شامل کرنے میں خرابی</value>
+  <data name="DatabaseType.Text" xml:space="preserve">
+    <value>ڈیٹا بیس:</value>
   </data>
-  <data name="Name.HelpText" xml:space="preserve">
-    <value>زبان کا نام</value>
+  <data name="ApplicationAdmin" xml:space="preserve">
+    <value>درخواست ایڈمنسٹریٹر</value>
   </data>
-  <data name="IsDefault.HelpText" xml:space="preserve">
-    <value>یہ زبان سائٹ کے لئے ڈیفالٹ ہے یا نہیں اس بات کی نشاندہی کرتا ہے</value>
+  <data name="InstallNow" xml:space="preserve">
+    <value>ابھی انسٹال کریں</value>
   </data>
-  <data name="Name.Text" xml:space="preserve">
-    <value>نام:</value>
+  <data name="Error.DbConfig.Load" xml:space="preserve">
+    <value>ڈیٹا بیس کنفیگریشن کنٹرول لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="IsDefault.Text" xml:space="preserve">
-    <value>ڈیفالٹ؟</value>
+  <data name="Message.Require.DbInfo" xml:space="preserve">
+    <value>براہ کرم تمام مطلوبہ فیلڈز درج کریں۔ اس بات کو یقینی بنائیں کہ پاس ورڈ مماثل ہوں اور لمبائی میں 5 حروف سے زیادہ ہوں۔ یقینی بنائیں کہ فراہم کردہ ای میل ایڈریس درست ہے۔</value>
   </data>
-  <data name="AllLanguages" xml:space="preserve">
-    <value>تمام انسٹال شدہ زبانیں شامل کر دی گئی ہیں۔</value>
+  <data name="Register" xml:space="preserve">
+    <value>براہ کرم مجھے اہم پروڈکٹ اپ ڈیٹس اور سیکیورٹی بلیٹنز کے لیے رجسٹر کریں</value>
   </data>
-  <data name="Error.Language.Download" xml:space="preserve">
-    <value>ترجمہ ڈاؤن لوڈ کرنے میں خرابی۔</value>
+  <data name="Confirm.HelpText" xml:space="preserve">
+    <value>براہ کرم اوپر درج کردہ پاس ورڈ کو دوبارہ درج کرکے تصدیق کریں</value>
   </data>
-  <data name="OnlyEnglish" xml:space="preserve">
-    <value>واحد نصب شدہ زبان انگریزی ہے۔</value>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>تصدیق کریں:</value>
   </data>
-  <data name="Success.Language.Download" xml:space="preserve">
-    <value>ترجمہ کامیابی کے ساتھ ڈاؤن لوڈ ہو گیا۔ انسٹالیشن مکمل کرنے کے لیے انسٹال پر کلک کریں۔</value>
+  <data name="DatabaseType.HelpText" xml:space="preserve">
+    <value>ڈیٹا بیس کی قسم منتخب کریں جسے آپ استعمال کرنا چاہتے ہیں۔</value>
   </data>
-  <data name="Success.Language.Install" xml:space="preserve">
-    <value>ترجمے کامیابی کے ساتھ انسٹال ہو گئے۔ ان تبدیلیوں کو لاگو کرنے کے لیے آپ کو اپنی درخواست کو &lt;a href={0}&gt;دوبارہ شروع&lt;/a&gt; کرنا ہوگا۔</value>
+  <data name="Email.HelpText" xml:space="preserve">
+    <value>میزبان صارف اکاؤنٹ کے لیے ای میل ایڈریس فراہم کریں</value>
   </data>
-  <data name="Search.NoResults" xml:space="preserve">
-    <value>کوئی ترجمہ فراہم کردہ معیار سے میل نہیں کھاتا یا پیکیج سروس غیر فعال ہے۔</value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>ای میل:</value>
   </data>
-  <data name="Download.Heading" xml:space="preserve">
-    <value>ڈاؤن لوڈ کریں</value>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>بنیادی صارف اکاؤنٹ کے لیے پاس ورڈ فراہم کریں</value>
   </data>
-  <data name="LanguageUpload.HelpText" xml:space="preserve">
-    <value>ایک یا زیادہ ترجمے اپ لوڈ کریں۔ ان کے اپ لوڈ ہونے کے بعد انسٹالیشن مکمل کرنے کے لیے انسٹال پر کلک کریں۔</value>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
   </data>
-  <data name="LanguageUpload.Text" xml:space="preserve">
-    <value>زبان اپ لوڈ کریں</value>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>بنیادی صارف اکاؤنٹ کے لیے صارف نام فراہم کریں</value>
   </data>
-  <data name="Manage.Heading" xml:space="preserve">
-    <value>انتظام کریں</value>
-  </data>
-  <data name="Upload.Heading" xml:space="preserve">
-    <value>اپ لوڈ کریں</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
   </data>
 </root>

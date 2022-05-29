@@ -138,4 +138,10 @@
   <data name="DeleteTheme.Header" xml:space="preserve">
     <value>تھیم حذف کریں</value>
   </data>
+  <data name="CreateTheme.Text" xml:space="preserve">
+    <value>تھیم بنائیں</value>
+  </data>
+  <data name="ViewTheme.Text" xml:space="preserve">
+    <value>دیکھیں</value>
+  </data>
 </root>

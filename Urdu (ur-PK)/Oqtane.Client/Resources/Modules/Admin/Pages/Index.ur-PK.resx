@@ -129,4 +129,13 @@
   <data name="DeletePage.Header" xml:space="preserve">
     <value>صفحہ حذف کریں</value>
   </data>
+  <data name="Browse" xml:space="preserve">
+    <value>براؤز کریں</value>
+  </data>
+  <data name="DeletePage.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="EditPage.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
 </root>

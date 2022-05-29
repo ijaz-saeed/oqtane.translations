@@ -177,4 +177,10 @@
   <data name="Username.Text" xml:space="preserve">
     <value>صارف نام:</value>
   </data>
+  <data name="Identity.Heading" xml:space="preserve">
+    <value>شناخت</value>
+  </data>
+  <data name="Profile.Heading" xml:space="preserve">
+    <value>پروفائل</value>
+  </data>
 </root>

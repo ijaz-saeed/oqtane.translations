@@ -144,4 +144,10 @@
   <data name="DeleteModule.Header" xml:space="preserve">
     <value>ماڈیول کو حذف کریں</value>
   </data>
+  <data name="InUse" xml:space="preserve">
+    <value>استعمال میں</value>
+  </data>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
 </root>

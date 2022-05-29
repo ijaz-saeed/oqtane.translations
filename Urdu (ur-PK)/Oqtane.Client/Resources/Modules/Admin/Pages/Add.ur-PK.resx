@@ -231,4 +231,10 @@
   <data name="Message.Page.Deleted" xml:space="preserve">
     <value>ری سائیکل بن میں منتخب پیرنٹ پیج کے لیے پاتھ {0} والا صفحہ پہلے سے موجود ہے۔ یا تو صفحہ بازیافت کریں یا ری سائیکل بن سے ہٹائیں اور اسے دوبارہ بنائیں۔</value>
   </data>
+  <data name="Meta.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر میٹا ٹیگز درج کریں (بالکل اسی شکل میں جسے آپ صفحہ آؤٹ پٹ میں شامل کرنا چاہتے ہیں)۔</value>
+  </data>
+  <data name="Meta.Text" xml:space="preserve">
+    <value>میٹا:</value>
+  </data>
 </root>

@@ -159,4 +159,10 @@
   <data name="Type" xml:space="preserve">
     <value>قسم</value>
   </data>
+  <data name="DeleteFile.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="UploadFiles.Text" xml:space="preserve">
+    <value>فائلیں اپ لوڈ کرو</value>
+  </data>
 </root>

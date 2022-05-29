@@ -126,4 +126,31 @@
   <data name="DeleteUser.Header" xml:space="preserve">
     <value>صارف کو حذف کریں</value>
   </data>
+  <data name="AllowRegistration.HelpText" xml:space="preserve">
+    <value>کیا آپ چاہتے ہیں کہ صارفین سائٹ پر ایک اکاؤنٹ کے لیے اندراج کرنے کے قابل ہوں</value>
+  </data>
+  <data name="AllowRegistration.Text" xml:space="preserve">
+    <value>صارف کی رجسٹریشن کی اجازت دیں؟</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>ترتیبات کو محفوظ کرنے میں خرابی۔</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>ترتیبات</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>سیٹنگز کامیابی سے محفوظ ہو گئیں</value>
+  </data>
+  <data name="Users.Heading" xml:space="preserve">
+    <value>صارفین</value>
+  </data>
+  <data name="DeleteUser.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="EditUser.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>کردار</value>
+  </data>
 </root>

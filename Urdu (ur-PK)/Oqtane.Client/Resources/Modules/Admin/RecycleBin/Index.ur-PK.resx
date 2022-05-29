@@ -180,4 +180,7 @@
   <data name="Pages.Name" xml:space="preserve">
     <value>صفحات</value>
   </data>
+  <data name="Modules.Heading" xml:space="preserve">
+    <value>ماڈیولز</value>
+  </data>
 </root>

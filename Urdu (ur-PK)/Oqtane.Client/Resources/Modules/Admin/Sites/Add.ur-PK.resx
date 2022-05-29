@@ -258,4 +258,16 @@
   <data name="Error.Database.LoadConfig" xml:space="preserve">
     <value>ڈیٹا بیس کنفیگریشن کنٹرول لوڈ کرنے میں خرابی</value>
   </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>بتاتا ہے کہ آیا سائٹ پہلے سے تیار کی جانی چاہیے (سرچ کرالرز وغیرہ کے لیے...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>پری رینڈر؟ </value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>بلیزر رن ٹائم ہوسٹنگ ماڈل</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>رن ٹائم: </value>
+  </data>
 </root>

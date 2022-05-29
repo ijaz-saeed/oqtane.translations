@@ -231,4 +231,43 @@
   <data name="Move.Text" xml:space="preserve">
     <value>منتقل:</value>
   </data>
+  <data name="ModuleDefinition" xml:space="preserve">
+    <value>ماڈیول</value>
+  </data>
+  <data name="ModuleTitle" xml:space="preserve">
+    <value>عنوان</value>
+  </data>
+  <data name="PageModules.Heading" xml:space="preserve">
+    <value>ماڈیولز</value>
+  </data>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
+  <data name="DeleteModule.Header" xml:space="preserve">
+    <value>ماڈیول کو حذف کریں</value>
+  </data>
+  <data name="DeleteModule.Message" xml:space="preserve">
+    <value>کیا آپ کو یقین ہے کہ آپ اس ماڈیول کو حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="DeleteModule.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>اجازتیں</value>
+  </data>
+  <data name="ThemeSettings.Heading" xml:space="preserve">
+    <value>تھیم کی ترتیبات</value>
+  </data>
+  <data name="Clickable.HelpText" xml:space="preserve">
+    <value>منتخب کریں کہ سائٹ نیویگیشن میں لنک فعال ہے یا غیر فعال ہے</value>
+  </data>
+  <data name="Clickable.Text" xml:space="preserve">
+    <value>قابل کلک؟</value>
+  </data>
+  <data name="Meta.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر میٹا ٹیگز درج کریں (بالکل اسی شکل میں جسے آپ صفحہ آؤٹ پٹ میں شامل کرنا چاہتے ہیں)۔</value>
+  </data>
+  <data name="Meta.Text" xml:space="preserve">
+    <value>میٹا:</value>
+  </data>
 </root>

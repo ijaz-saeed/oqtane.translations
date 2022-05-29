@@ -117,55 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Version:" xml:space="preserve">
-    <value>ورژن:</value>
+  <data name="MappedUrl.Text" xml:space="preserve">
+    <value>ری ڈائریکٹ کریں:</value>
   </data>
-  <data name="Database Configuration" xml:space="preserve">
-    <value>ڈیٹا بیس کی تشکیل</value>
+  <data name="MappedUrl.HelpText" xml:space="preserve">
+    <value>ایک متعلقہ یا مطلق یو آر ایل جہاں صارف کو ری ڈائریکٹ کیا جائے گا۔</value>
   </data>
-  <data name="Database Type:" xml:space="preserve">
-    <value>ڈیٹا بیس کی قسم:</value>
+  <data name="Url.HelpText" xml:space="preserve">
+    <value>سائٹ میں کسی مخصوص صفحہ کے راستے کی نشاندہی کرنے والا ایک مطلق یو آر ایل</value>
   </data>
-  <data name="Local Database" xml:space="preserve">
-    <value>مقامی ڈیٹا بیس</value>
+  <data name="Url.Text" xml:space="preserve">
+    <value>یو آر ایل:</value>
   </data>
-  <data name="SQL Server" xml:space="preserve">
-    <value>ایس کیو ایل سرور</value>
+  <data name="Error.LoadUrlMapping" xml:space="preserve">
+    <value>یو آر ایل میپنگ لوڈ کرنے میں خرابی۔</value>
   </data>
-  <data name="Server:" xml:space="preserve">
-    <value>سرور:</value>
+  <data name="Error.SaveUrlMapping" xml:space="preserve">
+    <value>یو آر ایل میپنگ کو محفوظ کرنے میں خرابی۔</value>
   </data>
-  <data name="Database:" xml:space="preserve">
-    <value>ڈیٹا بیس:</value>
+  <data name="Message.InfoRequired" xml:space="preserve">
+    <value>براہ کرم تمام مطلوبہ معلومات فراہم کریں۔</value>
   </data>
-  <data name="Integrated Security:" xml:space="preserve">
-    <value>انٹیگریٹڈ سیکیورٹی:</value>
-  </data>
-  <data name="True" xml:space="preserve">
-    <value>درست</value>
-  </data>
-  <data name="False" xml:space="preserve">
-    <value>نہیں</value>
-  </data>
-  <data name="Username:" xml:space="preserve">
-    <value>صارف نام:</value>
-  </data>
-  <data name="Password:" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Application Administrator" xml:space="preserve">
-    <value>درخواست ایڈمنسٹریٹر</value>
-  </data>
-  <data name="Confirm:" xml:space="preserve">
-    <value>تصدیق کریں:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>ای میل:</value>
-  </data>
-  <data name="Install Now" xml:space="preserve">
-    <value>انسٹال کریں</value>
-  </data>
-  <data name="Please Enter All Fields And Ensure Passwords Match And Are Greater Than 5 Characters In Length" xml:space="preserve">
-    <value>براہ کرم تمام فیلڈز داخل کریں اور پاس ورڈز کے میچ کو یقینی بنائیں اور لمبائی میں 5 حرف سے زیادہ ہوں</value>
+  <data name="Message.DuplicateUrlMapping" xml:space="preserve">
+    <value>یو آر ایل اور ری ڈائریکٹ ٹو ایک جیسے نہیں ہو سکتے</value>
   </data>
 </root>

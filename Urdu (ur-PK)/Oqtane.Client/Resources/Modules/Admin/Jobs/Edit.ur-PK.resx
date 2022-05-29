@@ -186,4 +186,10 @@
   <data name="NextExecution.Text" xml:space="preserve">
     <value>اگلی بار:</value>
   </data>
+  <data name="Week(s)" xml:space="preserve">
+    <value>ہفتے</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>ایک بار عمل کریں</value>
+  </data>
 </root>

@@ -117,10 +117,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Login" xml:space="preserve">
-    <value>لاگ ان کریں</value>
+  <data name="Url" xml:space="preserve">
+    <value>یو آر ایل</value>
   </data>
-  <data name="Logout" xml:space="preserve">
-    <value>لاگ آوٹ</value>
+  <data name="Visited" xml:space="preserve">
+    <value>دورہ کیا</value>
+  </data>
+  <data name="Visits" xml:space="preserve">
+    <value>دورے</value>
+  </data>
+  <data name="AllVisitors" xml:space="preserve">
+    <value>تمام زائرین</value>
+  </data>
+  <data name="PastDay" xml:space="preserve">
+    <value>گزشتہ دن</value>
+  </data>
+  <data name="PastMonth" xml:space="preserve">
+    <value>گزشتہ مہینہ</value>
+  </data>
+  <data name="PastWeek" xml:space="preserve">
+    <value>گزشتہ ہفتہ</value>
+  </data>
+  <data name="UsersOnly" xml:space="preserve">
+    <value>صرف صارفین</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>زبان</value>
+  </data>
+  <data name="Error.SaveSiteSettings" xml:space="preserve">
+    <value>ترتیبات کو محفوظ کرنے میں خرابی</value>
+  </data>
+  <data name="Settings.Heading" xml:space="preserve">
+    <value>ترتیبات</value>
+  </data>
+  <data name="Success.SaveSiteSettings" xml:space="preserve">
+    <value>سیٹنگز کامیابی سے محفوظ ہو گئیں</value>
+  </data>
+  <data name="Visitors.Heading" xml:space="preserve">
+    <value>زائرین</value>
+  </data>
+  <data name="Tracking.HelpText" xml:space="preserve">
+    <value>واضح کریں کہ آیا وزیٹر ٹریکنگ فعال ہے</value>
+  </data>
+  <data name="Tracking.Text" xml:space="preserve">
+    <value>ٹریکنگ فعال ہے؟</value>
+  </data>
+  <data name="IP" xml:space="preserve">
+    <value>آئی پی</value>
+  </data>
+  <data name="User" xml:space="preserve">
+    <value>صارف</value>
+  </data>
+  <data name="Created" xml:space="preserve">
+    <value>بنایا</value>
+  </data>
+  <data name="Details.Text" xml:space="preserve">
+    <value>تفصیلات</value>
+  </data>
+  <data name="Filter.HelpText" xml:space="preserve">
+    <value>کوما سے محدود کردہ اصطلاحات کی فہرست جو IP پتوں، صارف کے ایجنٹوں، یا زائرین کی شناخت کرنے والی زبانوں میں موجود ہو سکتی ہے جن کو ٹریک نہیں کیا جانا چاہیے</value>
+  </data>
+  <data name="Filter.Text" xml:space="preserve">
+    <value>فلٹر:</value>
+  </data>
+  <data name="Retention.HelpText" xml:space="preserve">
+    <value>وزیٹر کی سرگرمیوں کے دنوں کی تعداد جسے برقرار رکھا جائے۔</value>
+  </data>
+  <data name="Retention.Text" xml:space="preserve">
+    <value>برقرار رکھنا (دن):</value>
+  </data>
+  <data name="Correlation.HelpText" xml:space="preserve">
+    <value>اس بات کی نشاندہی کریں کہ آیا اس سائٹ پر آنے والے نئے آنے والوں کو ان کے IP ایڈریس کی بنیاد پر باہم مربوط کیا جانا چاہیے</value>
+  </data>
+  <data name="Correlation.Text" xml:space="preserve">
+    <value>زائرین کو جوڑنا؟</value>
   </data>
 </root>

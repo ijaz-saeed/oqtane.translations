@@ -129,9 +129,6 @@
   <data name="DefaultContainer.Text" xml:space="preserve">
     <value>پہلے سے طے شدہ کنٹینر:</value>
   </data>
-  <data name="Appearance.Name" xml:space="preserve">
-    <value>ظاہری شکل</value>
-  </data>
   <data name="DefaultAdminContainer" xml:space="preserve">
     <value>ڈیفالٹ ایڈمن کنٹینر</value>
   </data>
@@ -169,10 +166,7 @@
     <value>سائٹ کے لئے کرایہ دار درج کریں</value>
   </data>
   <data name="Aliases.HelpText" xml:space="preserve">
-    <value>سرور کے لئے عرف درج کریں</value>
-  </data>
-  <data name="AllowRegistration.HelpText" xml:space="preserve">
-    <value>کیا آپ چاہتے ہیں کہ صارف سائٹ پر کسی اکاؤنٹ کے لئے اندراج کرسکیں؟</value>
+    <value>سائٹ کے عرفی نام۔ ایک عرف ڈومین نام (www.site.com) یا ورچوئل فولڈر (یعنی www.site.com/folder) ہو سکتا ہے۔ اگر کسی سائٹ کے متعدد عرفی نام ہیں تو انہیں کوما سے الگ کیا جانا چاہیے۔</value>
   </data>
   <data name="IsDeleted.HelpText" xml:space="preserve">
     <value>کیا یہ سائٹ مٹا دی گئی ہے؟</value>
@@ -224,9 +218,6 @@
   </data>
   <data name="Aliases.Text" xml:space="preserve">
     <value>عرفی نام:</value>
-  </data>
-  <data name="AllowRegistration.Text" xml:space="preserve">
-    <value>صارف کے اندراج کی اجازت دیں؟</value>
   </data>
   <data name="IsDeleted.Text" xml:space="preserve">
     <value>کیا حذف ہوگیا ہے؟</value>
@@ -281,5 +272,56 @@
   </data>
   <data name="Theme.Select" xml:space="preserve">
     <value>تھیم منتخب کریں</value>
+  </data>
+  <data name="Hosting.Heading" xml:space="preserve">
+    <value>ہوسٹنگ ماڈل</value>
+  </data>
+  <data name="Prerender.HelpText" xml:space="preserve">
+    <value>بتاتا ہے کہ آیا سائٹ پہلے سے تیار کی جانی چاہیے (سرچ کرالرز وغیرہ کے لیے...)</value>
+  </data>
+  <data name="Prerender.Text" xml:space="preserve">
+    <value>پری رینڈر؟ </value>
+  </data>
+  <data name="Runtime.HelpText" xml:space="preserve">
+    <value>بلیزر رن ٹائم ہوسٹنگ ماڈل</value>
+  </data>
+  <data name="Runtime.Text" xml:space="preserve">
+    <value>رن ٹائم:</value>
+  </data>
+  <data name="Browse" xml:space="preserve">
+    <value>براؤز کریں</value>
+  </data>
+  <data name="TenantInformation.Heading" xml:space="preserve">
+    <value>کرایہ دار کی معلومات</value>
+  </data>
+  <data name="PWASettings.Heading" xml:space="preserve">
+    <value>پی ڈبلیو اے کی ترتیبات</value>
+  </data>
+  <data name="SMTPSettings.Heading" xml:space="preserve">
+    <value>SMTP ترتیبات</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>کنکشن:</value>
+  </data>
+  <data name="Database.Text" xml:space="preserve">
+    <value>ڈیٹا بیس:</value>
+  </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>ڈیٹا بیس کے لیے کنکشن کی معلومات</value>
+  </data>
+  <data name="Database.HelpText" xml:space="preserve">
+    <value>کرایہ دار کے لیے ڈیٹا بیس</value>
+  </data>
+  <data name="DeleteSite.Text" xml:space="preserve">
+    <value>سائٹ کو حذف کریں</value>
+  </data>
+  <data name="DefaultAlias.HelpText" xml:space="preserve">
+    <value>سائٹ کے لیے ڈیفالٹ عرف۔ غیر طے شدہ عرفی ناموں کی درخواستوں کو ڈیفالٹ عرف پر بھیج دیا جائے گا۔</value>
+  </data>
+    <data name="DefaultAlias.Text" xml:space="preserve">
+    <value>ڈیفالٹ عرف:</value>
+  </data>
+  <data name="Aliases.Heading" xml:space="preserve">
+    <value>عرفی نام</value>
   </data>
 </root>

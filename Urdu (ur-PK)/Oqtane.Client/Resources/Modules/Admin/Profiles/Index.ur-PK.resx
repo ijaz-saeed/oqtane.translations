@@ -132,4 +132,10 @@
   <data name="DeleteProfile.Header" xml:space="preserve">
     <value>پروفائل حذف کریں</value>
   </data>
+  <data name="DeleteProfile.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="EditProfile.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
 </root>

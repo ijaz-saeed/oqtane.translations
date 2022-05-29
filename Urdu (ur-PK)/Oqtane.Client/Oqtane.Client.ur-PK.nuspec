@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Client.ur-PK</id>
-    <version>2.3.1</version>
+    <version>3.0.3</version>
     <authors>Ijaz Saeed</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Framework ur-PK Translation</title>
@@ -16,11 +16,11 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="2.3.1" />
+      <dependency id="Oqtane.Framework" version="3.0.3" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Oqtane.Server\bin\Release\net5.0\ur-PK\Oqtane.Client.resources.dll" target="lib\net5.0\ur-PK" />
+    <file src="..\..\Oqtane.Server\bin\Release\net6.0\ur-PK\Oqtane.Client.resources.dll" target="lib\net6.0\ur-PK" />
     <file src="..\..\Oqtane.Server\wwwroot\icon.png" target="" />
   </files>
 </package>

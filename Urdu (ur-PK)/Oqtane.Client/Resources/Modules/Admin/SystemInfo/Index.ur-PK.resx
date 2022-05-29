@@ -243,4 +243,7 @@
   <data name="Swagger.Text" xml:space="preserve">
     <value>سویگر فعال ہے؟</value>
   </data>
+  <data name="RestartApplication.Text" xml:space="preserve">
+    <value>ویب سائٹ دوبارہ چلائیں</value>
+  </data>
 </root>

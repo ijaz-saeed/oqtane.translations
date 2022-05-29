@@ -117,22 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Password.Confirm" xml:space="preserve">
-    <value>پاس ورڈ کی تصدیق کریں:</value>
-  </data>
   <data name="Message.Password.NoMatch" xml:space="preserve">
     <value>داخل کردہ پاس ورڈ میچ نہیں کرتے ہیں</value>
   </data>
   <data name="Message.Required.UserInfo" xml:space="preserve">
-    <value>آپ کو صارف نام ، پاس ورڈ ، اور ای میل ایڈریس فراہم کرنا ہوگا</value>
+    <value>آپ کو پاس ورڈ اور تصدیق فراہم کرنی ہوگی</value>
   </data>
   <data name="Password.Reset" xml:space="preserve">
     <value>پاس ورڈ ری سیٹ</value>
   </data>
   <data name="Error.Password.ResetInfo" xml:space="preserve">
-    <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خامی۔ براہ کرم یقینی بنائیں کہ پاس ورڈ پیچیدگی کی ضروریات کو پورا کرتا ہے۔</value>
+    <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خرابی۔ براہ کرم یقینی بنائیں کہ آپ کے پاس ورڈ کو دوبارہ ترتیب دینے کی درخواست پچھلے 24 گھنٹوں کے اندر کی گئی تھی اور نیا پاس ورڈ پیچیدہ تقاضوں کو پورا کرتا ہے۔</value>
   </data>
   <data name="Error.Password.Reset" xml:space="preserve">
-    <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خامی</value>
+    <value>صارف کا پاس ورڈ دوبارہ ترتیب دینے میں خرابی</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>تصدیق کریں:</value>
+  </data>
+  <data name="Conform.HelpText" xml:space="preserve">
+    <value>دوبارہ پاس ورڈ درج کریں۔ یہ اوپر درج کردہ پاس ورڈ سے بالکل مماثل ہونا چاہیے۔</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>نیا پاس ورڈ۔ اسے سائٹ کے لیے پیچیدگی کے اصولوں کو پورا کرنا چاہیے۔</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>آپ کا صارف نام اس لنک سے پُر کیا جائے گا جو آپ کو پاس ورڈ دوبارہ ترتیب دینے کی اطلاع میں موصول ہوا ہے۔</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
   </data>
 </root>

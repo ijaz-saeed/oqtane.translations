@@ -142,10 +142,7 @@
     <value>دن</value>
   </data>
   <data name="Month" xml:space="preserve">
-    <value>مہینہ</value>
-  </data>
-  <data name="s" xml:space="preserve">
-    <value>s</value>
+    <value>مہینے</value>
   </data>
   <data name="Error.Job.Delete" xml:space="preserve">
     <value>ملازمت کو حذف کرنے میں خرابی</value>
@@ -167,5 +164,32 @@
   </data>
   <data name="Stop" xml:space="preserve">
     <value>روکو اسے</value>
+  </data>
+  <data name="DeleteJob.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="EditJob.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
+  <data name="JobLog.Text" xml:space="preserve">
+    <value>لاگ</value>
+  </data>
+  <data name="Error.Job.Start" xml:space="preserve">
+    <value>کام شروع کرتے وقت ایک خرابی پیش آگئی</value>
+  </data>
+  <data name="Error.Job.Stop" xml:space="preserve">
+    <value>کام روکتے وقت ایک خرابی پیش آگئی</value>
+  </data>
+  <data name="Message.Job.Start" xml:space="preserve">
+    <value>اس کام کو انجام دینے کا ذمہ دار عمل شروع کر دیا گیا ہے۔ اگلا عمل ملازمت کے شیڈول کے معیار پر مبنی ہوگا۔</value>
+  </data>
+  <data name="Message.Job.Stop" xml:space="preserve">
+    <value>اس کام کو انجام دینے کا ذمہ دار عمل روک دیا گیا ہے۔ اس عمل کو دوبارہ شروع کرنے کے لیے آپ کو اسٹارٹ بٹن استعمال کرنے یا ایپلیکیشن کو دوبارہ شروع کرنے کی ضرورت ہوگی۔</value>
+  </data>
+  <data name="Week" xml:space="preserve">
+    <value>ہفتے</value>
+  </data>
+  <data name="Once" xml:space="preserve">
+    <value>ایک بار عمل کریں</value>
   </data>
 </root>

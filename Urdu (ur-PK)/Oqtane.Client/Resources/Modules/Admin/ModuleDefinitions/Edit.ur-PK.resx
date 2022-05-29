@@ -116,17 +116,17 @@
   </resheader>
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>  
+  </resheader>
   <data name="Name.Text" xml:space="preserve">
     <value>نام:</value>
-  </data>  
+  </data>
   <data name="Description.Text" xml:space="preserve">
     <value>تفصیل:</value>
   </data>
-  <data name="Error Loading Module" xml:space="preserve">
+  <data name="Error.Module.Load" xml:space="preserve">
     <value>ماڈیول لوڈ کرنے میں خرابی</value>
   </data>
-  <data name="Error Saving Module" xml:space="preserve">
+  <data name="Error.Module.Save" xml:space="preserve">
     <value>ماڈیول کو محفوظ کرنے میں خرابی</value>
   </data>
   <data name="Name.HelpText" xml:space="preserve">
@@ -183,7 +183,16 @@
   <data name="Runtimes.Text" xml:space="preserve">
     <value>رن ٹائمز:</value>
   </data>
-  <data name="Definition.Name" xml:space="preserve">
+  <data name="Definition.Heading" xml:space="preserve">
     <value>تعریف</value>
+  </data>
+  <data name="Information.Heading" xml:space="preserve">
+    <value>معلومات</value>
+  </data>
+  <data name="Permissions.Heading" xml:space="preserve">
+    <value>اجازتیں</value>
+  </data>
+  <data name="Information.Text" xml:space="preserve">
+    <value>معلومات</value>
   </data>
 </root>

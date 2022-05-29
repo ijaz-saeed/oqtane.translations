@@ -129,4 +129,13 @@
   <data name="DeleteRole.Header" xml:space="preserve">
     <value>کردار حذف کریں</value>
   </data>
+  <data name="DeleteRole.Text" xml:space="preserve">
+    <value>حذف کریں</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>ترمیم</value>
+  </data>
+  <data name="Users.Text" xml:space="preserve">
+    <value>صارفین</value>
+  </data>
 </root>
