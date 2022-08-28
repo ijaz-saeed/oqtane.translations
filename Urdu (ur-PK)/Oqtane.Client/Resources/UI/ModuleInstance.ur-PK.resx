@@ -121,9 +121,9 @@
     <value>ماڈیول میں ایک جز نہیں ہے جس کا نام {0} ہے</value>
   </data>
   <data name="Error.Module.InvalidType" xml:space="preserve">
-    <value>Module Type Is Invalid For {0}</value>
+    <value>ماڈیول کی قسم {0} کے لیے غلط ہے</value>
   </data>
   <data name="Error.Module.Exception" xml:space="preserve">
-      <value>ایک غیر متوقع خرابی واقع ہوئی ہے</value>
+    <value>ایک غیر متوقع خرابی واقع ہوئی ہے</value>
   </data>
 </root>

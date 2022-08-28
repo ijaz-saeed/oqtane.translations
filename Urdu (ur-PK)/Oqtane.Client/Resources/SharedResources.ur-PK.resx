@@ -321,4 +321,10 @@
   <data name="Settings" xml:space="preserve">
     <value>ترتیبات</value>
   </data>
+  <data name="HidePassword" xml:space="preserve">
+    <value>چھپائیں</value>
+  </data>
+  <data name="ShowPassword" xml:space="preserve">
+    <value>دکھائیں</value>
+  </data>
 </root>

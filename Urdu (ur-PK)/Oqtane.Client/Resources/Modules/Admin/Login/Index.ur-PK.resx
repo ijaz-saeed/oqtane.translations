@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,17 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="RememberMe" xml:space="preserve">
-    <value>مجھے اسٹور کرو؟</value>
-  </data>
   <data name="ForgotPassword" xml:space="preserve">
     <value>پاسورڈ بھول گے</value>
   </data>
   <data name="Success.Account.Verified" xml:space="preserve">
     <value>صارف کا اکاؤنٹ کامیابی کے ساتھ تصدیق شدہ۔ اب آپ ذیل میں اپنے صارف نام اور پاس ورڈ کے ساتھ لاگ ان کرسکتے ہیں۔</value>
   </data>
-  <data name="Message.Account.NotVerfied" xml:space="preserve">
+  <data name="Message.Account.NotVerified" xml:space="preserve">
     <value>صارف کے اکاؤنٹ کی توثیق نہیں ہوسکی ، مزید ہدایات کے لئے براہ کرم اپنے ایڈمنسٹریٹر سے رابطہ کریں۔</value>
+  </data>
+  <data name="Success.Account.Linked" xml:space="preserve">
+    <value>یوزر اکاؤنٹ کامیابی کے ساتھ لنک ہو گیا۔ اب آپ نیچے اپنے بیرونی لاگ ان کے ساتھ لاگ ان کر سکتے ہیں۔</value>
+  </data>
+  <data name="Message.Account.NotLinked" xml:space="preserve">
+    <value>بیرونی لاگ ان کو لنک نہیں کیا جا سکا۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
   </data>
   <data name="Error.Login.Fail" xml:space="preserve">
     <value>لاگ ان ناکام رہے. براہ کرم یاد رکھیں کہ پاس ورڈ کیس حساس ہیں ، اور صارف کے اکاؤنٹس کی توثیق کی ضرورت ہوتی ہے ، جب وہ ابتدائی طور پر تخلیق کیے جاتے ہیں ، لہذا آپ کو اپنا ای میل چیک کرنا چاہئے۔</value>
@@ -146,5 +149,80 @@
   </data>
   <data name="Message.UserDoesNotExist" xml:space="preserve">
     <value>صارف موجود نہیں</value>
+  </data>
+  <data name="Code.HelpText" xml:space="preserve">
+    <value>براہ کرم محفوظ تصدیقی کوڈ درج کریں جو آپ کو ای میل کے ذریعے بھیجا گیا تھا۔</value>
+  </data>
+  <data name="Code.Placeholder" xml:space="preserve">
+    <value>تصدیقی کوڈ</value>
+  </data>
+  <data name="Code.Text" xml:space="preserve">
+    <value>تصدیقی کوڈ:</value>
+  </data>
+  <data name="Error.TwoFactor.Fail" xml:space="preserve">
+    <value>توثیق ناکام ہو گئی۔ براہ کرم یقینی بنائیں کہ آپ نے اپنے ای میل میں فراہم کردہ کوڈ بالکل ٹھیک درج کیا ہے۔ اگر آپ نیا تصدیقی کوڈ حاصل کرنا چاہتے ہیں، تو براہ کرم منسوخی کا اختیار منتخب کریں اور دوبارہ سائن ان کریں۔</value>
+  </data>
+  <data name="Message.TwoFactor" xml:space="preserve">
+    <value>آپ کے ای میل ایڈریس پر ایک محفوظ تصدیقی کوڈ بھیجا گیا ہے۔ براہ کرم وہ کوڈ درج کریں جو آپ کو موصول ہوا ہے۔ اگر آپ کو کوڈ موصول نہیں ہوتا ہے یا آپ نے اپنے ای میل تک رسائی کھو دی ہے، تو براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="Password.HelpText" xml:space="preserve">
+    <value>براہ کرم اپنے اکاؤنٹ سے متعلق پاس ورڈ درج کریں۔ یاد رکھیں کہ پاس ورڈ کیس حساس ہوتے ہیں۔ اگر آپ اپنے اکاؤنٹ میں متعدد بار لاگ ان کرنے کی ناکام کوشش کرتے ہیں، تو آپ کو ایک مدت کے لیے بند کر دیا جائے گا۔</value>
+  </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>پاس ورڈ</value>
+  </data>
+  <data name="Password.Text" xml:space="preserve">
+    <value>پاس ورڈ:</value>
+  </data>
+  <data name="Remember.HelpText" xml:space="preserve">
+    <value>وضاحت کریں، اگر آپ خودکار طور پر دوبارہ سائن ان ہونا چاہتے ہیں، اگلی بار جب آپ اس سائٹ پر جائیں گے</value>
+  </data>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>مجھے اسٹور کرو؟</value>
+  </data>
+  <data name="Username.HelpText" xml:space="preserve">
+    <value>براہ کرم اپنے اکاؤنٹ سے متعلق صارف نام درج کریں۔</value>
+  </data>
+  <data name="Username.Placeholder" xml:space="preserve">
+    <value>صارف نام</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>صارف نام:</value>
+  </data>
+  <data name="Use" xml:space="preserve">
+    <value>استعمال کریں۔</value>
+  </data>
+  <data name="Error.LoadLogin" xml:space="preserve">
+    <value>لاگ ان لوڈ کرنے میں خرابی۔</value>
+  </data>
+  <data name="Error.Login" xml:space="preserve">
+    <value>لاگ ان کرنے میں خرابی۔</value>
+  </data>
+  <data name="Error.ResetPassword" xml:space="preserve">
+    <value>پاس ورڈ کو دوبارہ ترتیب دینے میں خرابی۔</value>
+  </data>
+  <data name="ExternalLoginStatus.DuplicateEmail" xml:space="preserve">
+    <value>آپ کے بیرونی لاگ ان کے ای میل ایڈریس کے ساتھ متعدد صارف اکاؤنٹس پہلے سے موجود ہیں۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.InvalidEmail" xml:space="preserve">
+    <value>بیرونی لاگ ان فراہم کنندہ نے آپ کے اکاؤنٹ کے لیے درست ای میل ایڈریس فراہم نہیں کیا۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.ProviderKeyMismatch" xml:space="preserve">
+    <value>آپ کے بیرونی لاگ ان کی تصدیق کرنے میں ایک خرابی پیش آگئی۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.UserDoesNotExist" xml:space="preserve">
+    <value>آپ کے بیرونی لاگ ان کے ای میل ایڈریس سے مماثل صارف اکاؤنٹ موجود نہیں ہے۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.UserNotCreated" xml:space="preserve">
+    <value>آپ کے بیرونی لاگ ان کے لیے صارف اکاؤنٹ نہیں بنایا جا سکا۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.VerificationRequired" xml:space="preserve">
+    <value>اپنے بیرونی لاگ ان کو اپنے صارف اکاؤنٹ سے جوڑنے کے لیے آپ کو اپنی شناخت کی تصدیق کرنی ہوگی۔ مزید ہدایات کے لیے براہ کرم اپنا ای میل چیک کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.AccessDenied" xml:space="preserve">
+    <value>آپ کے بیرونی لاگ ان کی رسائی سے انکار کر دیا گیا ہے۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
+  <data name="ExternalLoginStatus.RemoteFailure" xml:space="preserve">
+    <value>آپ کا بیرونی لاگ ان ناکام ہو گیا۔ مزید ہدایات کے لیے براہ کرم اپنے منتظم سے رابطہ کریں۔</value>
   </data>
 </root>

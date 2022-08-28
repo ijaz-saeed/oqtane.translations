@@ -153,4 +153,235 @@
   <data name="Roles.Text" xml:space="preserve">
     <value>کردار</value>
   </data>
+  <data name="LockoutDuration.HelpText" xml:space="preserve">
+    <value>منٹوں کی تعداد جس میں صارف کو لاک آؤٹ کیا جانا چاہیے۔</value>
+  </data>
+  <data name="LockoutDuration.Text" xml:space="preserve">
+    <value>لاک آؤٹ کا دورانیہ:</value>
+  </data>
+  <data name="MaximumFailures.HelpText" xml:space="preserve">
+    <value>صارف کے لاک آؤٹ ہونے سے پہلے، سائن ان کی کوششوں کی زیادہ سے زیادہ تعداد</value>
+  </data>
+  <data name="MaximumFailures.Text" xml:space="preserve">
+    <value>زیادہ سے زیادہ ناکام کوششیں:</value>
+  </data>
+  <data name="RequireDigit.HelpText" xml:space="preserve">
+    <value>اس بات کی نشاندہی کریں کہ آیا پاس ورڈ میں کوئی ہندسہ ہونا ضروری ہے۔</value>
+  </data>
+  <data name="RequireDigit.Text" xml:space="preserve">
+    <value>ڈیجیٹ کی ضرورت ہے؟</value>
+  </data>
+  <data name="RequiredLength.HelpText" xml:space="preserve">
+    <value>پاس ورڈ کے لیے کم از کم لمبائی</value>
+  </data>
+  <data name="RequiredLength.Text" xml:space="preserve">
+    <value>کم از کم لمبائی:</value>
+  </data>
+  <data name="RequireLower.HelpText" xml:space="preserve">
+    <value>اس بات کی نشاندہی کریں کہ آیا پاس ورڈز میں ایک لوئر کیس کیریکٹر ہونا ضروری ہے۔</value>
+  </data>
+  <data name="RequireLower.Text" xml:space="preserve">
+    <value>لوئر کیس کی ضرورت ہے؟</value>
+  </data>
+  <data name="RequirePunctuation.HelpText" xml:space="preserve">
+    <value>اس بات کی نشاندہی کریں کہ آیا پاس ورڈ میں ایک غیر حروفِ عددی حرف ہونا چاہیے (یعنی اوقاف)</value>
+  </data>
+  <data name="RequirePunctuation.Text" xml:space="preserve">
+    <value>اوقاف کی ضرورت ہے؟</value>
+  </data>
+  <data name="RequireUpper.HelpText" xml:space="preserve">
+    <value>اس بات کی نشاندہی کریں کہ آیا پاس ورڈ میں ایک بڑے حرف کا ہونا ضروری ہے۔</value>
+  </data>
+  <data name="RequireUpper.Text" xml:space="preserve">
+    <value>بڑے حروف کی ضرورت ہے؟</value>
+  </data>
+  <data name="Success.UpdateConfig.Restart" xml:space="preserve">
+    <value>کنفیگریشن اپ ڈیٹ ہو گئی۔ ان تبدیلیوں کو چالو کرنے کے لیے براہ کرم ری اسٹارٹ ایپلیکیشن کو منتخب کریں۔</value>
+  </data>
+  <data name="UniqueCharacters.HelpText" xml:space="preserve">
+    <value>منفرد حروف کی کم از کم تعداد جس میں پاس ورڈ ہونا ضروری ہے۔</value>
+  </data>
+  <data name="UniqueCharacters.Text" xml:space="preserve">
+    <value>منفرد الفاظ:</value>
+  </data>
+  <data name="AllowSiteLogin.HelpText" xml:space="preserve">
+    <value>کیا آپ صارفین کو اس سائٹ پر مقامی طور پر منظم کردہ صارف نام اور پاس ورڈ استعمال کرکے سائن ان کرنے کی اجازت دینا چاہتے ہیں؟ نوٹ کریں کہ آپ کو اس اختیار کو صرف اس صورت میں غیر فعال کرنا چاہیے جب آپ نے پہلے ہی کسی بیرونی لاگ ان فراہم کنندہ کو کامیابی سے کنفیگر کر لیا ہو، ورنہ آپ خود کو سائٹ سے باہر کر سکتے ہیں۔</value>
+  </data>
+  <data name="AllowSiteLogin.Text" xml:space="preserve">
+    <value>لاگ ان کی اجازت دیں؟</value>
+  </data>
+  <data name="Authority.HelpText" xml:space="preserve">
+    <value>OpenID Connect فراہم کنندہ سے وابستہ اتھارٹی یو آر ایل یا جاری کنندہ یو آر ایل</value>
+  </data>
+  <data name="Authority.Text" xml:space="preserve">
+    <value>اُطوڑِتی:</value>
+  </data>
+  <data name="AuthorizationUrl.HelpText" xml:space="preserve">
+    <value>اتھارٹی کوڈ حاصل کرنے کا آخری نقطہ</value>
+  </data>
+  <data name="AuthorizationUrl.Text" xml:space="preserve">
+    <value>اجازت دینے کا یو آر ایل:</value>
+  </data>
+  <data name="ClientID.HelpText" xml:space="preserve">
+    <value>فراہم کنندہ کی طرف سے کلائنٹ ID</value>
+  </data>
+  <data name="ClientID.Text" xml:space="preserve">
+    <value>کلائنٹ کی شناخت:</value>
+  </data>
+  <data name="ClientSecret.HelpText" xml:space="preserve">
+    <value>فراہم کنندہ کی طرف سے کلائنٹ کا راز</value>
+  </data>
+  <data name="ClientSecret.Text" xml:space="preserve">
+    <value>کلائنٹ کا راز:</value>
+  </data>
+  <data name="CreateUsers.HelpText" xml:space="preserve">
+    <value>کیا آپ چاہتے ہیں کہ نئے صارفین خود بخود بنائے جائیں؟ اگر آپ اس اختیار کو غیر فعال کرتے ہیں، تو صارفین کو اپنے بیرونی لاگ ان کے ساتھ سائن ان کرنے کے لیے پہلے سے ہی سائٹ پر رجسٹر ہونا چاہیے۔</value>
+  </data>
+  <data name="CreateUsers.Text" xml:space="preserve">
+    <value>نئے صارفین بنائیں؟</value>
+  </data>
+  <data name="DomainFilter.HelpText" xml:space="preserve">
+    <value>کوئی بھی ای میل ڈومین فلٹر کا معیار فراہم کریں (کوما سے الگ)۔ خارج کرنے کے لیے ڈومینز کو فجائیہ (!) کے ساتھ سابقہ ​​لگانا چاہیے۔ مثال کے طور پر 'microsoft.com,!hotmail.com' میں microsoft.com کے ای میل پتے شامل ہوں گے لیکن hotmail.com کے ای میل پتے نہیں۔</value>
+  </data>
+  <data name="DomainFilter.Text" xml:space="preserve">
+    <value>ڈومین فلٹر:</value>
+  </data>
+  <data name="EmailClaimType.HelpText" xml:space="preserve">
+    <value>ای میل ایڈریس کے دعوی کا نام، فراہم کنندہ کے ذریعہ فراہم کردہ</value>
+  </data>
+  <data name="EmailClaimType.Text" xml:space="preserve">
+    <value>ای میل کا دعویٰ:</value>
+  </data>
+  <data name="ExternalLoginSettings.Heading" xml:space="preserve">
+    <value>بیرونی لاگ ان کی ترتیبات</value>
+  </data>
+  <data name="LockoutSettings.Heading" xml:space="preserve">
+    <value>لاک آؤٹ کی ترتیبات</value>
+  </data>
+  <data name="MetadataUrl.HelpText" xml:space="preserve">
+    <value>اس فراہم کنندہ کے لیے میٹا ڈیٹا حاصل کرنے کے لیے دریافت کا URL۔ صرف اس صورت میں وضاحت کریں کہ اگر OpenID Connect فراہم کنندہ معیاری طریقہ استعمال نہیں کرتا ہے (یعنی. /.well-known/openid-configuration)</value>
+  </data>
+  <data name="MetadataUrl.Text" xml:space="preserve">
+    <value>میٹا ڈیٹا یو آر ایل:</value>
+  </data>
+  <data name="PasswordSettings.Heading" xml:space="preserve">
+    <value>پاس ورڈ کی ترتیبات</value>
+  </data>
+  <data name="PKCE.HelpText" xml:space="preserve">
+    <value>اشارہ کریں کہ آیا فراہم کنندہ کوڈ ایکسچینج (PKCE) کے لیے پروف کی کو سپورٹ کرتا ہے</value>
+  </data>
+  <data name="PKCE.Text" xml:space="preserve">
+    <value>PKCE استعمال کریں؟</value>
+  </data>
+  <data name="ProviderName.HelpText" xml:space="preserve">
+    <value>بیرونی لاگ ان فراہم کنندہ کا نام جو لاگ ان صفحہ پر دکھایا جائے گا۔</value>
+  </data>
+  <data name="ProviderName.Text" xml:space="preserve">
+    <value>فراہم کنندہ کا نام:</value>
+  </data>
+  <data name="ProviderType.HelpText" xml:space="preserve">
+    <value>بیرونی لاگ ان فراہم کنندہ کی قسم منتخب کریں۔</value>
+  </data>
+  <data name="ProviderType.Text" xml:space="preserve">
+    <value>فراہم کنندہ کی قسم:</value>
+  </data>
+  <data name="RedirectUrl.HelpText" xml:space="preserve">
+    <value>ری ڈائریکٹ یو آر ایل (یا کال بیک یو آر ایل) جسے عام طور پر فراہم کنندہ کے ساتھ رجسٹر کرنے کی ضرورت ہوتی ہے۔</value>
+  </data>
+  <data name="RedirectUrl.Text" xml:space="preserve">
+    <value>ری ڈائریکٹ یو آر ایل:</value>
+  </data>
+  <data name="Scopes.HelpText" xml:space="preserve">
+    <value>فراہم کنندہ سے درخواست کرنے کے لیے دائرہ کار کی فہرست (کوما سے الگ)۔ اگر کوئی بھی متعین نہیں ہے تو، معیاری دائرہ کار بطور ڈیفالٹ استعمال کیا جائے گا۔</value>
+  </data>
+  <data name="Scopes.Text" xml:space="preserve">
+    <value>دائرہ کار:</value>
+  </data>
+  <data name="TokenUrl.HelpText" xml:space="preserve">
+    <value>تصدیق ٹوکن حاصل کرنے کا URL</value>
+  </data>
+  <data name="TokenUrl.Text" xml:space="preserve">
+    <value>ٹوکن یو آر ایل:</value>
+  </data>
+  <data name="UserInfoUrl.HelpText" xml:space="preserve">
+    <value>صارف کی معلومات حاصل کرنے کا URL۔ یہ ایک API یا صفحہ یو آر ایل ہونا چاہیے جس میں صارفین کا ای میل پتہ ہو۔</value>
+  </data>
+  <data name="UserInfoUrl.Text" xml:space="preserve">
+    <value>یوزر انفارمیشن یو آر ایل:</value>
+  </data>
+  <data name="Audience.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر سامعین کو ٹوکن فراہم کریں۔</value>
+  </data>
+  <data name="Audience.Text" xml:space="preserve">
+    <value>سامعین:</value>
+  </data>
+  <data name="UserSettings.Heading" xml:space="preserve">
+    <value>صارف کی ترتیبات</value>
+  </data>
+  <data name="CookieName.HelpText" xml:space="preserve">
+    <value>آپ ہر سائٹ کے لیے حسب ضرورت تصدیقی کوکی کا نام استعمال کرنے کا انتخاب کر سکتے ہیں۔ تاہم براہ کرم آگاہ رہیں کہ اگر آپ ایک ہی ڈومین پر موجود سائٹس کے درمیان تصدیقی کوکی کا اشتراک کرنا چاہتے ہیں تو انہیں ایک مستقل کوکی کا نام استعمال کرنے کی ضرورت ہے۔ یہ بھی جان لیں کہ تصدیقی کوکی کا نام تبدیل کرنے سے تمام موجودہ صارفین لاگ آؤٹ ہو جائیں گے۔</value>
+  </data>
+  <data name="CookieName.Text" xml:space="preserve">
+    <value>کوکی کا نام:</value>
+  </data>
+  <data name="CreateToken" xml:space="preserve">
+    <value>ٹوکن بنائیں</value>
+  </data>
+  <data name="Issuer.HelpText" xml:space="preserve">
+    <value>اختیاری طور پر ٹوکن جاری کرنے والے کو فراہم کریں۔</value>
+  </data>
+  <data name="Issuer.Text" xml:space="preserve">
+    <value>جاری کنندہ:</value>
+  </data>
+  <data name="Lifetime.HelpText" xml:space="preserve">
+    <value>منٹوں کی تعداد جس کے لیے ٹوکن درست ہونا چاہیے۔</value>
+  </data>
+  <data name="Lifetime.Text" xml:space="preserve">
+    <value>زندگی بھر:</value>
+  </data>
+  <data name="Secret.HelpText" xml:space="preserve">
+    <value>اگر آپ API رسائی فراہم کرنا چاہتے ہیں، تو براہ کرم ایک راز کی وضاحت کریں جو آپ کے ٹوکنز کو خفیہ کرنے کے لیے استعمال کیا جائے گا۔ بہترین سیکورٹی کو یقینی بنانے کے لیے راز 16 حروف یا اس سے زیادہ ہونا چاہیے۔ براہ کرم نوٹ کریں کہ اگر آپ اس راز کو تبدیل کرتے ہیں، تو تمام موجودہ ٹوکن غلط ہو جائیں گے اور انہیں دوبارہ تخلیق کرنے کی ضرورت ہوگی۔</value>
+  </data>
+  <data name="Secret.Text" xml:space="preserve">
+    <value>راز:</value>
+  </data>
+  <data name="Token.HelpText" xml:space="preserve">
+    <value>ایک طویل المدت رسائی ٹوکن (1 سال کے لیے درست) بنانے کے لیے ٹوکن بنائیں بٹن کو منتخب کریں۔ اس ٹوکن کو محفوظ جگہ پر رکھنا یقینی بنائیں کیونکہ آپ مستقبل میں اس تک رسائی حاصل نہیں کر سکیں گے۔</value>
+  </data>
+  <data name="Token.Text" xml:space="preserve">
+    <value>ٹوکن:</value>
+  </data>
+  <data name="TokenSettings.Heading" xml:space="preserve">
+    <value>ٹوکن کی ترتیبات</value>
+  </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>کیا آپ چاہتے ہیں کہ صارفین دو فیکٹر سیکیورٹی استعمال کریں؟ نوٹ کریں کہ آپ کو ڈس ایبلڈ آپشن استعمال کرنا چاہیے جب تک کہ آپ کامیابی سے تصدیق نہ کر لیں کہ شیڈول جاب میں نوٹیفکیشن جاب فعال ہے اور سائٹ سیٹنگز میں آپ کے SMTP آپشنز کنفیگر ہو چکے ہیں ورنہ آپ خود کو لاک آؤٹ کر دیں گے۔</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>دو فیکٹر سیکورٹی؟</value>
+  </data>
+  <data name="Disabled" xml:space="preserve">
+    <value>معذور</value>
+  </data>
+  <data name="Optional" xml:space="preserve">
+    <value>اختیاری</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>درکار ہے۔</value>
+  </data>
+  <data name="LastLoginOn" xml:space="preserve">
+    <value>آخری لاگ ان</value>
+  </data>
+  <data name="IdentifierClaimType.HelpText" xml:space="preserve">
+    <value>فراہم کنندہ کے ذریعہ فراہم کردہ منفرد صارف شناخت کنندہ کے دعوی کا نام</value>
+  </data>
+  <data name="IdentifierClaimType.Text" xml:space="preserve">
+    <value>شناخت کنندہ کا دعویٰ:</value>
+  </data>
+  <data name="Parameters.HelpText" xml:space="preserve">
+    <value>فراہم کنندہ کو بھیجنے کے لیے اختیاری طور پر کسی بھی اضافی پیرامیٹرز کو نام/قدر کے جوڑے کے طور پر متعین کریں (اگر متعدد ہوں تو کوما کے ذریعے الگ کیا جاتا ہے)۔</value>
+  </data>
+  <data name="Parameters.Text" xml:space="preserve">
+    <value>پیرامیٹرز:</value>
+  </data>
 </root>

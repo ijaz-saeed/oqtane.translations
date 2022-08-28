@@ -183,4 +183,19 @@
   <data name="Profile.Heading" xml:space="preserve">
     <value>پروفائل</value>
   </data>
+  <data name="Password.Placeholder" xml:space="preserve">
+    <value>پاس ورڈ</value>
+  </data>
+  <data name="LastIPAddress.HelpText" xml:space="preserve">
+    <value>صارف کا IP ایڈریس جو ان کے آخری لاگ ان کے دوران ریکارڈ کیا گیا تھا۔</value>
+  </data>
+  <data name="LastIPAddress.Text" xml:space="preserve">
+    <value>آخری IP پتہ:</value>
+  </data>
+  <data name="LastLogin.HelpText" xml:space="preserve">
+    <value>وہ تاریخ اور وقت جب صارف نے آخری بار سائن ان کیا تھا۔</value>
+  </data>
+  <data name="LastLogin.Text" xml:space="preserve">
+    <value>آخری لاگ ان:</value>
+  </data>
 </root>

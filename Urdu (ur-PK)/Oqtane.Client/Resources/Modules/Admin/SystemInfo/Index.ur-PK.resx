@@ -123,26 +123,20 @@
   <data name="FrameworkVersion.HelpText" xml:space="preserve">
     <value>فریم ورک ورژن</value>
   </data>
-  <data name="BlazorRuntime.HelpText" xml:space="preserve">
-    <value>بلیزر رن ٹائم (سرور یا ویب اسمبلی)</value>
-  </data>
   <data name="CLRVersion.HelpText" xml:space="preserve">
     <value>کامن لینگویج رن ٹائم ورژن</value>
   </data>
   <data name="OSVersion.HelpText" xml:space="preserve">
     <value>آپریٹنگ سسٹم کا ورژن</value>
   </data>
-  <data name="ServerPath.HelpText" xml:space="preserve">
-    <value>سرور پاتھ</value>
+  <data name="ContentRootPath.HelpText" xml:space="preserve">
+    <value>سرور روٹ پاتھ</value>
   </data>
   <data name="ServerTime.HelpText" xml:space="preserve">
-    <value>سرور کا وقت</value>
+    <value>سرور کی تاریخ/وقت (UTC میں)</value>
   </data>
   <data name="FrameworkVersion.Text" xml:space="preserve">
     <value>فریم ورک ورژن:</value>
-  </data>
-  <data name="BlazorRuntime.Text" xml:space="preserve">
-    <value>بلیزر رن ٹائم:</value>
   </data>
   <data name="CLRVersion.Text" xml:space="preserve">
     <value>سی ایل آر ورژن:</value>
@@ -150,11 +144,11 @@
   <data name="OSVersion.Text" xml:space="preserve">
     <value>OS ورژن:</value>
   </data>
-  <data name="ServerPath.Text" xml:space="preserve">
-    <value>سرور کا راستہ:</value>
+  <data name="ContentRootPath.Text" xml:space="preserve">
+    <value>روٹ پتہ: </value>
   </data>
   <data name="ServerTime.Text" xml:space="preserve">
-    <value>سرور کا وقت:</value>
+    <value>سرور کی تاریخ/وقت:</value>
   </data>
   <data name="RestartApplication.Header" xml:space="preserve">
     <value>ایپ کو دوبارہ شروع کریں</value>
@@ -165,17 +159,8 @@
   <data name="Error.UpdateConfig" xml:space="preserve">
     <value>کنفیگریشن کو اپ ڈیٹ کرنے میں ایک خرابی پیش آ گئی</value>
   </data>
-  <data name="Server" xml:space="preserve">
-    <value>سرور</value>
-  </data>
-  <data name="ServerPrerendered" xml:space="preserve">
-    <value>پہلے سے پیش کردہ سرور</value>
-  </data>
   <data name="Success.UpdateConfig.Restart" xml:space="preserve">
     <value>کنفیگریشن اپ ڈیٹ ہو گئی۔ ان تبدیلیوں کو چالو کرنے کے لیے براہ کرم ری اسٹارٹ ایپلیکیشن کو منتخب کریں</value>
-  </data>
-  <data name="WebAssembly" xml:space="preserve">
-    <value>ویب اسمبلی</value>
   </data>
   <data name="InstallationId.Text" xml:space="preserve">
     <value>تنصیب کی شناخت:</value>
@@ -219,11 +204,11 @@
   <data name="Critical" xml:space="preserve">
     <value>نازک صورتحال</value>
   </data>
-  <data name="Info" xml:space="preserve">
+  <data name="Info.Heading" xml:space="preserve">
     <value>معلومات</value>
   </data>
-  <data name="Options" xml:space="preserve">
-    <value>اختیارات</value>
+  <data name="Options.Heading" xml:space="preserve">
+    <value>آپشنز</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>براہ کرم مجھے اہم پروڈکٹ اپ ڈیٹس اور سیکیورٹی بلیٹنز کے لیے رجسٹر کریں</value>
@@ -245,5 +230,44 @@
   </data>
   <data name="RestartApplication.Text" xml:space="preserve">
     <value>ویب سائٹ دوبارہ چلائیں</value>
+  </data>
+  <data name="None" xml:space="preserve">
+    <value>کوئی نہیں</value>
+  </data>
+  <data name="NotificationLevel.HelpText" xml:space="preserve">
+    <value>کم از کم لاگنگ کی سطح جس کے لیے اطلاعات میزبان صارفین کو بھیجی جانی چاہئیں۔</value>
+  </data>
+  <data name="NotificationLevel.Text" xml:space="preserve">
+    <value>اطلاع کی سطح:</value>
+  </data>
+  <data name="IPAddress.HelpText" xml:space="preserve">
+    <value>سرور IP ایڈریس</value>
+  </data>
+  <data name="IPAddress.Text" xml:space="preserve">
+    <value>IP پتہ:</value>
+  </data>
+  <data name="MachineName.HelpText" xml:space="preserve">
+    <value>سرور مشین کا نام</value>
+  </data>
+  <data name="MachineName.Text" xml:space="preserve">
+    <value>مشین کا نام:</value>
+  </data>
+  <data name="TickCount.HelpText" xml:space="preserve">
+    <value>سروس کے دستیاب اور آپریشنل ہونے کے وقت کی مقدار</value>
+  </data>
+  <data name="TickCount.Text" xml:space="preserve">
+    <value>سروس اپ ٹائم:</value>
+  </data>
+  <data name="WebRootPath.HelpText" xml:space="preserve">
+    <value>سرور ویب روٹ پاتھ</value>
+  </data>
+  <data name="WebRootPath.Text" xml:space="preserve">
+    <value>ویب پاتھ:</value>
+  </data>
+  <data name="WorkingSet.HelpText" xml:space="preserve">
+    <value>ایپ کی میموری ایلوکیشن (ایم بی میں)</value>
+  </data>
+  <data name="WorkingSet.Text" xml:space="preserve">
+    <value>میموری مختص:</value>
   </data>
 </root>

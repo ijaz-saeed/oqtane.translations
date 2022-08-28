@@ -204,4 +204,19 @@
   <data name="Username.Text" xml:space="preserve">
     <value>صارف نام:</value>
   </data>
+  <data name="TwoFactor.HelpText" xml:space="preserve">
+    <value>یہ اشارہ کرتا ہے، اگر آپ دو فیکٹر سیکورٹی استعمال کر رہے ہیں۔ دو فیکٹر سیکیورٹی کے لیے آپ سے سائن ان کرنے کے بعد ای میل کے ذریعے بھیجا گیا توثیقی کوڈ درج کرنے کی ضرورت ہے۔</value>
+  </data>
+  <data name="TwoFactor.Text" xml:space="preserve">
+    <value>دو فیکٹر سیکورٹی؟</value>
+  </data>
+  <data name="DeleteAllNotifications.Header" xml:space="preserve">
+    <value>اطلاعات کو حذف کریں</value>
+  </data>
+  <data name="DeleteAllNotifications.Message" xml:space="preserve">
+    <value>کیا آپ کو یقین ہے کہ آپ تمام اطلاعات کو مستقل طور پر حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="DeleteAllNotifications.Text" xml:space="preserve">
+    <value>تمام اطلاعات کو حذف کریں۔</value>
+  </data>
 </root>

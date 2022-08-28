@@ -135,6 +135,9 @@
   <data name="Message.Require.DbInfo" xml:space="preserve">
     <value>براہ کرم تمام مطلوبہ فیلڈز درج کریں۔ اس بات کو یقینی بنائیں کہ پاس ورڈ مماثل ہوں اور لمبائی میں 5 حروف سے زیادہ ہوں۔ یقینی بنائیں کہ فراہم کردہ ای میل ایڈریس درست ہے۔</value>
   </data>
+  <data name="Message.Password.Invalid" xml:space="preserve">
+    <value>فراہم کردہ پاس ورڈ پاس ورڈ کی پالیسی پر پورا نہیں اترتا۔ براہ کرم پاس ورڈ کی کم از کم لمبائی اور پیچیدگی کے تقاضوں کی تصدیق کریں۔</value>
+  </data>
   <data name="Register" xml:space="preserve">
     <value>براہ کرم مجھے اہم پروڈکٹ اپ ڈیٹس اور سیکیورٹی بلیٹنز کے لیے رجسٹر کریں</value>
   </data>
