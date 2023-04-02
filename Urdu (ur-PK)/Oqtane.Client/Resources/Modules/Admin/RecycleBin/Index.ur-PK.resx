@@ -177,10 +177,13 @@
   <data name="DeleteAllModules.Message" xml:space="preserve">
     <value>کیا آپ واقعی تمام ماڈیول مستقل طور پر حذف کرنا چاہتے ہیں؟</value>
   </data>
-  <data name="Pages.Name" xml:space="preserve">
+  <data name="Pages.Heading" xml:space="preserve">
     <value>صفحات</value>
   </data>
   <data name="Modules.Heading" xml:space="preserve">
     <value>ماڈیولز</value>
+  </data>
+  <data name="DeleteAllPages.Text" xml:space="preserve">
+    <value>تمام حذف شدہ صفحات کو ہٹا دیں۔</value>
   </data>
 </root>

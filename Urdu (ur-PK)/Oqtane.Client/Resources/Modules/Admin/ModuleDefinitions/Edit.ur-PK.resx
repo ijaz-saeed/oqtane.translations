@@ -195,4 +195,28 @@
   <data name="Information.Text" xml:space="preserve">
     <value>معلومات</value>
   </data>
+  <data name="PackageName.HelpText" xml:space="preserve">
+    <value>پیکیج کا منفرد نام جس سے یہ ماڈیول انسٹال کیا گیا تھا۔</value>
+  </data>
+  <data name="PackageName.Text" xml:space="preserve">
+    <value>پیکیج کا نام:</value>
+  </data>
+  <data name="Error.Translation.Download" xml:space="preserve">
+    <value>ترجمہ ڈاؤن لوڈ کرنے میں خرابی۔</value>
+  </data>
+  <data name="Search.PackageNameMissing" xml:space="preserve">
+    <value>ماڈیول کے لیے پیکیج کا نام فراہم نہیں کیا گیا تھا۔</value>
+  </data>
+  <data name="Search.NoResults" xml:space="preserve">
+    <value>اس ماڈیول یا پیکیج سروس کے لیے کوئی ترجمہ موجود نہیں ہے۔</value>
+  </data>
+  <data name="Success.Translation.Download" xml:space="preserve">
+    <value>ترجمہ کامیابی سے ڈاؤن لوڈ ہو گیا۔ انسٹالیشن مکمل کرنے کے لیے انسٹال پر کلک کریں۔</value>
+  </data>
+  <data name="Success.Translation.Install" xml:space="preserve">
+    <value>ترجمہ کامیابی سے انسٹال ہو گیا۔ ان تبدیلیوں کو لاگو کرنے کے لیے آپ کو ایپ کو دوبارہ شروع کرنا ہوگا۔</value>
+  </data>
+  <data name="Translations.Heading" xml:space="preserve">
+    <value>ترجمے</value>
+  </data>
 </root>

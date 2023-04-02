@@ -192,4 +192,7 @@
   <data name="Once" xml:space="preserve">
     <value>ایک بار عمل کریں</value>
   </data>
+  <data name="Message.NoJobs" xml:space="preserve">
+    <value>براہ کرم نوٹ کریں کہ ابتدائی انسٹالیشن کے بعد آپ کو پہلے سے طے شدہ شیڈول جابز کو فعال کرنے کے لیے ایپلیکیشن کو دوبارہ شروع کرنا ہوگا۔</value>
+  </data>
 </root>

@@ -141,4 +141,7 @@
   <data name="Error.File.Delete" xml:space="preserve">
     <value>فائل کو حذف کرنے میں خرابی</value>
   </data>
+  <data name="Message.File.Restricted" xml:space="preserve">
+    <value>{0} کی توسیع والی فائلوں کو اپ لوڈ کرنے سے منع کیا گیا ہے۔ براہ کرم مزید معلومات کے لیے اپنے منتظم سے رابطہ کریں۔</value>
+  </data>
 </root>

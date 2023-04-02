@@ -270,4 +270,16 @@
   <data name="Runtime.Text" xml:space="preserve">
     <value>رن ٹائم: </value>
   </data>
+  <data name="ConnectionString.HelpText" xml:space="preserve">
+    <value>تمام پیرامیٹرز اور حد بندیوں سمیت ایک مکمل کنکشن سٹرنگ درج کریں۔</value>
+  </data>
+  <data name="ConnectionString.Text" xml:space="preserve">
+    <value>ترتیبات:</value>
+  </data>
+  <data name="EnterConnectionParameters" xml:space="preserve">
+    <value>کنکشن کے پیرامیٹرز درج کریں۔</value>
+  </data>
+  <data name="EnterConnectionString" xml:space="preserve">
+    <value>کنکشن سٹرنگ درج کریں۔</value>
+  </data>
 </root>

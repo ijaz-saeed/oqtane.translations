@@ -147,4 +147,7 @@
   <data name="Message.Required.Title" xml:space="preserve">
     <value>آپ کو ماڈیول کے لیے ایک عنوان فراہم کرنا چاہیے</value>
   </data>
+  <data name="Error.Module.Load" xml:space="preserve">
+    <value>ماڈیول {0} لوڈ کرنے میں ایک مسئلہ پیش آیا۔ ماڈیول یا تو غلط ہے یا موجود نہیں ہے۔</value>
+  </data>
 </root>

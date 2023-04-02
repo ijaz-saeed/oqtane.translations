@@ -123,4 +123,10 @@
   <data name="AllowFileManagement.Text" xml:space="preserve">
     <value>فائل مینجمنٹ کی اجازت دیں:</value>
   </data>
+  <data name="AllowRawHtml.HelpText" xml:space="preserve">
+    <value>وضاحت کریں کہ آیا ایڈیٹرز Raw HTML میں داخل ہو سکتے ہیں۔</value>
+  </data>
+  <data name="AllowRawHtml.Text" xml:space="preserve">
+    <value>خام HTML شامل کریں:</value>
+  </data>
 </root>

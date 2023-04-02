@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -117,67 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DatabaseConfig" xml:space="preserve">
-    <value>ڈیٹا بیس کنفیگریشنز</value>
+  <data name="Entity" xml:space="preserve">
+    <value>چیز</value>
   </data>
-  <data name="DatabaseType.Text" xml:space="preserve">
-    <value>ڈیٹا بیس:</value>
-  </data>
-  <data name="ApplicationAdmin" xml:space="preserve">
-    <value>درخواست ایڈمنسٹریٹر</value>
-  </data>
-  <data name="InstallNow" xml:space="preserve">
-    <value>ابھی انسٹال کریں</value>
-  </data>
-  <data name="Error.DbConfig.Load" xml:space="preserve">
-    <value>ڈیٹا بیس کنفیگریشن کنٹرول لوڈ کرنے میں خرابی</value>
-  </data>
-  <data name="Message.Require.DbInfo" xml:space="preserve">
-    <value>براہ کرم تمام مطلوبہ فیلڈز درج کریں۔ اس بات کو یقینی بنائیں کہ پاس ورڈ مماثل ہوں اور لمبائی میں 5 حروف سے زیادہ ہوں۔ یقینی بنائیں کہ فراہم کردہ ای میل ایڈریس درست ہے۔</value>
-  </data>
-  <data name="Message.Password.Invalid" xml:space="preserve">
-    <value>فراہم کردہ پاس ورڈ پاس ورڈ کی پالیسی پر پورا نہیں اترتا۔ براہ کرم پاس ورڈ کی کم از کم لمبائی اور پیچیدگی کے تقاضوں کی تصدیق کریں۔</value>
-  </data>
-  <data name="Register" xml:space="preserve">
-    <value>براہ کرم مجھے اہم پروڈکٹ اپ ڈیٹس اور سیکیورٹی بلیٹنز کے لیے رجسٹر کریں</value>
-  </data>
-  <data name="Confirm.HelpText" xml:space="preserve">
-    <value>براہ کرم اوپر درج کردہ پاس ورڈ کو دوبارہ درج کرکے تصدیق کریں</value>
-  </data>
-  <data name="Confirm.Text" xml:space="preserve">
-    <value>تصدیق کریں:</value>
-  </data>
-  <data name="DatabaseType.HelpText" xml:space="preserve">
-    <value>ڈیٹا بیس کی قسم منتخب کریں جسے آپ استعمال کرنا چاہتے ہیں۔</value>
-  </data>
-  <data name="Email.HelpText" xml:space="preserve">
-    <value>میزبان صارف اکاؤنٹ کے لیے ای میل ایڈریس فراہم کریں</value>
-  </data>
-  <data name="Email.Text" xml:space="preserve">
-    <value>ای میل:</value>
-  </data>
-  <data name="Password.HelpText" xml:space="preserve">
-    <value>بنیادی صارف اکاؤنٹ کے لیے پاس ورڈ فراہم کریں</value>
-  </data>
-  <data name="Password.Text" xml:space="preserve">
-    <value>پاس ورڈ:</value>
-  </data>
-  <data name="Username.HelpText" xml:space="preserve">
-    <value>بنیادی صارف اکاؤنٹ کے لیے صارف نام فراہم کریں</value>
-  </data>
-  <data name="Username.Text" xml:space="preserve">
-    <value>صارف نام:</value>
-    </data>
-  <data name="ConnectionString.HelpText" xml:space="preserve">
-    <value>تمام پیرامیٹرز اور حد بندیوں سمیت ایک مکمل کنکشن سٹرنگ درج کریں۔</value>
-  </data>
-  <data name="ConnectionString.Text" xml:space="preserve">
-    <value>سٹرنگ:</value>
-  </data>
-  <data name="EnterConnectionParameters" xml:space="preserve">
-    <value>کنکشن کے پیرامیٹرز درج کریں۔</value>
-  </data>
-  <data name="EnterConnectionString" xml:space="preserve">
-    <value>کنکشن سٹرنگ درج کریں۔</value>
+  <data name="Permissions" xml:space="preserve">
+    <value>اجازتیں</value>
   </data>
 </root>

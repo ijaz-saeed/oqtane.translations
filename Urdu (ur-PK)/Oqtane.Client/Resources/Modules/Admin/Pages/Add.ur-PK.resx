@@ -237,4 +237,7 @@
   <data name="Meta.Text" xml:space="preserve">
     <value>میٹا:</value>
   </data>
+  <data name="Message.Page.Reserved" xml:space="preserve">
+    <value>صفحہ کا نام {0} خاص ہے۔ براہ کرم اپنے صفحہ کے لیے ایک مختلف نام درج کریں۔</value>
+  </data>
 </root>

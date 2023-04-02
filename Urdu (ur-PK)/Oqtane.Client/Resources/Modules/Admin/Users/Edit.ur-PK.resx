@@ -198,4 +198,7 @@
   <data name="LastLogin.Text" xml:space="preserve">
     <value>آخری لاگ ان:</value>
   </data>
+  <data name="Message.Password.Complexity" xml:space="preserve">
+    <value>فراہم کردہ پاس ورڈ پیچیدگی کی پالیسی پر پورا نہیں اترتا</value>
+  </data>
 </root>

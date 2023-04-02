@@ -168,4 +168,10 @@
   <data name="Upload.Heading" xml:space="preserve">
     <value>اپ لوڈ کریں</value>
   </data>
+  <data name="Translated.HelpText" xml:space="preserve">
+    <value>اگر آپ ان زبانوں کو منتخب کرنا چاہتے ہیں جن میں ترجمے نصب ہیں۔</value>
+  </data>
+  <data name="Translated.Text" xml:space="preserve">
+    <value>ترجمہ کیا؟</value>
+  </data>
 </root>

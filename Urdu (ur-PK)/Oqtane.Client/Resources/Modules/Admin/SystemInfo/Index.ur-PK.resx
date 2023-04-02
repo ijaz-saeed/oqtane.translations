@@ -270,4 +270,28 @@
   <data name="WorkingSet.Text" xml:space="preserve">
     <value>میموری مختص:</value>
   </data>
+  <data name="Log.Heading" xml:space="preserve">
+    <value>لاگ</value>
+  </data>
+  <data name="Environment.HelpText" xml:space="preserve">
+    <value>ماحولیات کا نام</value>
+  </data>
+  <data name="Environment.Text" xml:space="preserve">
+    <value>ماحول</value>
+  </data>
+  <data name="Log.Text" xml:space="preserve">
+    <value>لاگ:</value>
+  </data>
+  <data name="Log.HelpText" xml:space="preserve">
+    <value>موجودہ دن کے لیے سسٹم لاگ کی معلومات</value>
+  </data>
+  <data name="Clear" xml:space="preserve">
+    <value>صاف</value>
+  </data>
+  <data name="Success.ClearLog" xml:space="preserve">
+    <value>سسٹم لاگ کامیابی کے ساتھ صاف ہو گیا ہے۔</value>
+  </data>
+  <data name="Error.ClearLog" xml:space="preserve">
+    <value>سسٹم لاگ کو صاف کرنے میں ایک خرابی پیش آگئی</value>
+  </data>
 </root>

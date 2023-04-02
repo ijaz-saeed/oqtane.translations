@@ -195,13 +195,13 @@
   <data name="UseSsl.HelpText" xml:space="preserve">
     <value>اگر آپ کے SMTP سرور کے لئے SSL کی ضرورت ہے تو بتائیں</value>
   </data>
-  <data name="SmptUsername.HelpText" xml:space="preserve">
+  <data name="SmtpUsername.HelpText" xml:space="preserve">
     <value>اپنے SMTP اکاؤنٹ کے لئے صارف نام درج کریں</value>
   </data>
   <data name="SmtpPassword.HelpText" xml:space="preserve">
     <value>اپنے SMTP اکاؤنٹ کے لئے پاس ورڈ درج کریں</value>
   </data>
-  <data name="SmptSender.HelpText" xml:space="preserve">
+  <data name="SmtpSender.HelpText" xml:space="preserve">
     <value>ای میل درج کریں کہ کون سے ای میلز بھیجے جائیں گے۔ براہ کرم نوٹ کریں کہ اس ای میل پتے کو SMTP سرور کے ساتھ اختیار کرنے کی ضرورت ہوسکتی ہے۔</value>
   </data>
   <data name="EnablePWA.HelpText" xml:space="preserve">
@@ -243,13 +243,13 @@
   <data name="UseSsl.Text" xml:space="preserve">
     <value>SSL فعال:</value>
   </data>
-  <data name="SmptUsername.Text" xml:space="preserve">
+  <data name="SmtpUsername.Text" xml:space="preserve">
     <value>صارف نام:</value>
   </data>
   <data name="SmtpPassword.Text" xml:space="preserve">
     <value>پاس ورڈ:</value>
   </data>
-  <data name="SmptSender.Text" xml:space="preserve">
+  <data name="SmtpSender.Text" xml:space="preserve">
     <value>ای میل بھیجنے والا:</value>
   </data>
   <data name="EnablePWA.Text" xml:space="preserve">
@@ -323,5 +323,26 @@
   </data>
   <data name="Aliases.Heading" xml:space="preserve">
     <value>عرفی نام</value>
+  </data>
+  <data name="AliasName" xml:space="preserve">
+    <value>نام</value>
+  </data>
+  <data name="AliasDefault" xml:space="preserve">
+    <value>پہلے سے طے شدہ؟</value>
+  </data>
+  <data name="Confirm.Alias.Delete" xml:space="preserve">
+    <value>کیا آپ واقعی {0} کو حذف کرنا چاہتے ہیں؟</value>
+  </data>
+  <data name="HomePage.HelpText" xml:space="preserve">
+    <value>سائٹ کے ہوم پیج کو منتخب کریں (اگر '/' کے راستے کے ساتھ کوئی صفحہ نہ ہو تو استعمال کیا جائے)</value>
+  </data>
+  <data name="HomePage.Text" xml:space="preserve">
+    <value>ہوم پیج:</value>
+  </data>
+  <data name="SmtpRelay.HelpText" xml:space="preserve">
+    <value>اس اختیار کو صرف اس صورت میں منتخب کریں جب آپ نے اپنے آؤٹ گوئنگ میل کو روٹ کرنے کے لیے SMTP ریلے سروس کو مناسب طریقے سے تشکیل دیا ہو۔ یہ آپشن اوپر بیان کردہ ای میل بھیجنے والے کے بجائے صارف کے ای میل سے اطلاعات بھیجے گا۔</value>
+  </data>
+  <data name="SmtpRelay.Text" xml:space="preserve">
+    <value>ریلے کی تشکیل؟</value>
   </data>
 </root>

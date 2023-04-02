@@ -138,6 +138,12 @@
   <data name="Register.Text" xml:space="preserve">
     <value>رجسٹر دکھائیں؟</value>
   </data>
+  <data name="Scope.HelpText" xml:space="preserve">
+    <value>وضاحت کریں کہ آیا ترتیبات اس صفحہ یا پوری سائٹ پر لاگو ہوتی ہیں۔</value>
+  </data>
+  <data name="Scope.Text" xml:space="preserve">
+    <value>ترتیب کا دائرہ:</value>
+  </data>
   <data name="Site" xml:space="preserve">
     <value>سائٹ</value>
   </data>

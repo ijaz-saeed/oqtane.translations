@@ -384,4 +384,10 @@
   <data name="Parameters.Text" xml:space="preserve">
     <value>پیرامیٹرز:</value>
   </data>
+  <data name="RoleClaimType.HelpText" xml:space="preserve">
+    <value>آپ اختیاری طور پر شناخت فراہم کرنے والے کی طرف سے فراہم کردہ کردار کے دعوے کا نام فراہم کر سکتے ہیں۔ یہ کردار سائٹ کے اندر تفویض کردہ کسی بھی اندرونی صارف کے کردار کے علاوہ استعمال کیے جائیں گے۔</value>
+  </data>
+  <data name="RoleClaimType.Text" xml:space="preserve">
+    <value>کردار کی قسم:</value>
+  </data>
 </root>

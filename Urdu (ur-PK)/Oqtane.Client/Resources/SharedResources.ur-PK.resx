@@ -318,6 +318,9 @@
   <data name="BlazorWebAssembly" xml:space="preserve">
     <value>بلیزر ویب اسمبلی</value>
   </data>
+  <data name="BlazorHybrid" xml:space="preserve">
+    <value>بلیزر ہائبرڈ</value>
+  </data>
   <data name="Settings" xml:space="preserve">
     <value>ترتیبات</value>
   </data>
@@ -326,5 +329,17 @@
   </data>
   <data name="ShowPassword" xml:space="preserve">
     <value>دکھائیں</value>
+  </data>
+  <data name="PageOfPages" xml:space="preserve">
+    <value>صفحہ {0} از {1}</value>
+  </data>
+  <data name="Url Mappings" xml:space="preserve">
+    <value>یو آر ایل میپنگز</value>
+  </data>
+  <data name="Visitor Management" xml:space="preserve">
+    <value>وزیٹر مینجمنٹ</value>
+  </data>
+  <data name="Oqtane.Marketplace" xml:space="preserve">
+    <value>براہ کرم نوٹ کریں کہ اوپر دکھائے گئے فریق ثالث کے ایکسٹینشنز کو &lt;a href="https://www.oqtane.net" target="_new"&gt;Oqtane Marketplace&lt;/a&gt; میں رجسٹر کیا گیا ہے۔ جو انہیں فریم ورک میں بغیر کسی رکاوٹ کے ڈاؤن لوڈ اور انسٹال کرنے کے قابل بناتا ہے۔</value>
   </data>
 </root>
